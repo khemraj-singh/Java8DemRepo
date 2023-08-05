@@ -7,6 +7,7 @@ public class MyFirstClass {
 		  System.out.println("Class in main branch");
 	        System.out.println("Class in Second Custom branch");
 		System.out.println("Hello First Java class");
+		System.out.println("hi");
 	}
 
 }
