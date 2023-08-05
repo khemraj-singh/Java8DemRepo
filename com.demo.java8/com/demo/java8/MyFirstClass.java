@@ -9,6 +9,7 @@ public class MyFirstClass {
 		System.out.println("Hello First Java class");
 		System.out.println("hi");
 		System.out.println("hello");
+		System.out.println("hello 1");
 	}
 
 }
